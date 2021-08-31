@@ -1,2 +1,2 @@
 # hello-world
-first repo
+This is done for training 
